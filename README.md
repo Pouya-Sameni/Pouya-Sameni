@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Pouya Sameni
 ====================================================================================================================================
 
-Software Engineering Student / Intern @ TD
+Software Engineering Student
 ------------------------------------------
 
 Hello visitor from the web! My name is Pouya, I am Software Engineer student at York University in Toronto. Welcome to my github portfolio, this is a great place to get to know me, any projects I might be working on and to just simply learna bout my current status as a SWE. If you are a possible recruiter I would love to hear from you and feel free to use the contact information below.
